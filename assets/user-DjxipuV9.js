@@ -1,1 +1,0 @@
-import{d as o,c as s,f as a,a as n,u as r,b as c}from"./index-FdtOTJLg.js";const d=o({__name:"user",setup(u){const e=r(),t=()=>{e.push("/home")};return(l,p)=>(c(),s("div",null,[a(" user "),n("button",{onClick:t},"点击跳转")]))}});export{d as default};
